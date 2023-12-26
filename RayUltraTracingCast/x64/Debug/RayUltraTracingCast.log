@@ -1,0 +1,33 @@
+﻿  Camera.cpp
+C:\Users\konas\source\repos\RayUltraTracingCast\RayUltraTracingCast\Camera.cpp(89,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\konas\source\repos\RayUltraTracingCast\RayUltraTracingCast\Camera.cpp(89,35): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\konas\source\repos\RayUltraTracingCast\RayUltraTracingCast\Camera.cpp(90,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\konas\source\repos\RayUltraTracingCast\RayUltraTracingCast\Camera.cpp(90,35): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Game.cpp
+  Global.cpp
+  Global.h
+  MiniMap.cpp
+C:\Users\konas\source\repos\RayUltraTracingCast\RayUltraTracingCast\MiniMap.cpp(54,49): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\konas\source\repos\RayUltraTracingCast\RayUltraTracingCast\MiniMap.cpp(54,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\konas\source\repos\RayUltraTracingCast\RayUltraTracingCast\MiniMap.cpp(56,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\konas\source\repos\RayUltraTracingCast\RayUltraTracingCast\MiniMap.cpp(56,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Player.cpp
+  Создание кода...
+x64\Debug\Global.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  RayUltraTracingCast.vcxproj -> C:\Users\konas\source\repos\RayUltraTracingCast\x64\Debug\RayUltraTracingCast.exe
